@@ -1,0 +1,34 @@
+.container{
+    background-color:#737B4D;
+}
+
+h1{
+    font-family: 'farmhand-sans', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #333300;
+}
+
+h3{
+    font-family: 'interstate-condensed', sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    color: #333300;
+}
+
+li{
+    font-family: 'interstate-condensed', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    color: #333300;
+}
+
+img{
+    max-width: 100%;
+}
+
+.text{
+    background-color: bisque;
+    padding: 10px;
+    margin: 10px 10px;
+}
